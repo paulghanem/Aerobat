@@ -8,5 +8,5 @@ The code depends on MATLAB.
 ### Reproducing results
 The experiments reported in the publication can be run by executing 
 ```
-    Aerobat/sim_estimate_NNWeights_CKF.m
+    Aerobat-CDC-2023/sim_estimate_NNWeights_CKF.m
 ```
