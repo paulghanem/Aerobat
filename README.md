@@ -8,5 +8,5 @@ The code depends on MATLAB.
 ### Reproducing results
 The experiments reported in the publication can be run by executing 
 ```
-Synchronized-Swimming-and-Formation-Control-for-Fish-Inspired-Underwater-Vehicles/main.m
+    Aerobat/sim_estimate_NNWeights_CKF.m
 ```
