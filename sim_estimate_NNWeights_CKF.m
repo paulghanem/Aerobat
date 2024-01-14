@@ -18,7 +18,7 @@ func_dyn = external('f', 'func_aerobat_dyn.mexw64');
  params.dt = 1e-4;  %sample rate
  
  %% neural  net parameters setup
- nh=2;%select number of neurons of the neural net
+ nh=20;%select number of neurons of the neural net
  Z=zeros(nh,1);% set recurrent weights
 
  
