@@ -10,3 +10,7 @@ The experiments reported in the publication can be run by executing
 ```
     Aerobat-CDC-2023/sim_estimate_NNWeights_CKF.m
 ```
+
+## Youtube Presentation 
+The detailed presenation of the paper is presented in the following video:
+https://youtu.be/fRSAbjC4t6U?si=H8GGHA4APMZe-k9T
